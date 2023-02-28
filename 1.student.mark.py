@@ -64,3 +64,12 @@ input_course_info(numb_courses)
 
 #input courses marks
 input_marks_courses(numb_students)
+
+#show students lists
+students_list()
+
+#show courses lists
+courses_list()
+
+#show courses mark
+show_courses_mark()
